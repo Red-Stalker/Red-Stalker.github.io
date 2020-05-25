@@ -1,0 +1,321 @@
+@media (min-width: 1200px){
+	.container{
+		width: 1240px ;
+	}
+}
+
+@media (max-width: 1200px){
+	.img_money{
+		display: none;
+	}
+
+	button.slick-next{
+		right:50px;
+	}
+
+
+	.wrapper{
+		background-position: 50% 46.5%;
+	}
+
+	header{
+		padding-left: 20px;
+	}
+
+	.ellipse{
+		margin-left: 200px;
+	}
+	
+	.block_why>p{
+		margin-left: 130px;
+	}
+
+	.workgroups{
+		width: 700px;
+	}
+
+	form>input:nth-child(2), form>input:nth-child(5){
+		margin-left: 0px;
+	}
+
+	form>input{
+		margin-top: 20px;
+	}
+	
+	form>input[type="submit"]{
+		margin-bottom: 20px;
+	}
+
+	.big-cooperation-video{
+		height: 600px;
+	}
+
+	button.slick-prev{
+		left:-10px;
+	}
+}
+
+@media (max-width: 1000px){
+	.block_why{
+		margin-left: 10%
+	}
+
+	.wrapper{
+		background: 10000%;
+	}
+
+	footer>.content{
+		margin-top: 30px;
+	}
+
+	footer>div>.logo{
+		margin-left: 120px;
+	}
+
+	.have_to_do{
+		background: linear-gradient(to bottom right, #009FA5, #83C4C7);
+		height: 610px;
+	}
+	.last{
+		margin-left: 20%;
+	}
+	
+}
+
+@media (max-width: 740px){
+	footer>div>.logo{
+		margin-left: 120px;
+	}
+	
+	.workgroups{
+		width: 600px;
+	}
+
+	header{
+		padding-left: 5px;
+	}
+
+	form{
+		padding-left: 100px;
+		padding-right: 100px;
+	}
+
+	footer>.content{
+		margin-left: 80px;
+	}
+
+
+
+}
+
+@media (max-width: 624px){
+	.have_to_do{
+		height: 900px;
+	}
+	
+	.login{
+		margin-right: 10px;
+	}
+
+	.block_do{
+		margin-left: 20%;
+	}
+	.big-cooperation-video{
+		height: 600px;
+	}
+}
+
+
+@media (max-width: 600px){
+	footer>.content{
+		margin-left: 60px;
+		margin-top: 40px;
+	}
+
+	.slider>ul {
+		bottom:-50px;
+	}
+	
+	header{
+		height: 650px;
+		/*background: linear-gradient(to bottom right, #539599, #7AC0C3);*/
+	}
+
+	.ellipse{
+		margin-left: 150px;
+	}
+	
+	.block_why>p{
+		margin-left: 80px;
+	}
+
+	.workgroups{
+		width: 500px;
+	}
+
+	form{
+		padding-left: 70px;
+		padding-right: 70px;
+	}
+
+	.text_slider{
+		width: 300px;
+	}
+
+	.block_do{
+		margin-left: 20%;
+	}
+	
+	.big-cooperation-video{
+		height: 650px;
+		margin-left: 5px;
+	}
+
+}
+
+@media (max-width: 500px){
+	header>.logo{
+		margin-left: 20%;
+	}
+
+	.h3_slider{
+		margin-left: 0px;
+	}
+
+	footer>.content{
+		margin-left: 0px;
+		
+	}
+	.login{
+		margin-right: 160px;
+	}
+
+	form>input{
+		width: 280px;
+	}
+	
+	.ellipse{
+		margin-left: 100px;
+	}
+
+	.block_why>p{
+		margin-left: 40px;
+	}
+
+	.workgroups{
+		width: 400px;
+	}
+	
+
+	.block_do{
+		margin-left: 25%;
+	}
+
+	.photo_pofile{
+		display: none !important;
+	}
+
+	.slider>div{
+		height: 300px;
+		text-align: center;
+	}
+
+	.circle{
+		margin-left: 30px;
+	}
+
+	.block_do>p{
+		margin-left: 5px;
+	}
+
+	form{
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	footer{
+	height: 260px;
+	background: linear-gradient(to bottom right, #009FA5, #83C4C7);
+	}
+}
+@media (max-width: 437px){
+	body{
+		background: inherit;
+	}
+
+	header{
+		height: 650px;
+		background: linear-gradient(to bottom right, #009FA5, #83C4C7);;
+	}
+
+	.big-cooperation-video {
+		height: 700px;
+	}
+
+	header>.logo{
+		margin-left: 15%;
+	}
+	.btn_join{
+		margin-top: 5px;
+	}
+	button.slick-next{
+		right:20px;
+	}
+}
+
+@media (max-width: 400px){
+
+	.workgroups{
+		width: 300px;
+	}
+
+	button.slick-next{
+		right:10px;
+	}
+
+	.login{
+		margin-right: 80px;
+	}
+
+	header{
+		height: 670px;
+	}
+
+	.ellipse{
+		margin-left: 60px;
+	}
+
+	.block_why>p{
+		margin-left: -10px;
+	}
+
+	form>input{
+		width: 240px;
+	}
+	.have_to_do{
+		height: 1000px;
+	}
+	form{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	
+	.block_do{
+		margin-left: 15%;
+	}
+
+	.workgroups>div{
+		font-size: 50px;
+	}
+
+	.big-cooperation-video{
+		margin-left: 5px;
+
+	}
+
+	footer>.content{
+		margin-left:-80px;
+		margin-top: 20px;
+	}
+
+
+}
